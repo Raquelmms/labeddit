@@ -69,10 +69,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### 🏁 Rodando o projeto
 ```
  # Clone este repositório
-$ git clone <https://github.com/future4code/raquel-martins-projeto-labeddit>
+$ git clone <https://github.com/raquelmms/labeddit>
 
 # Acesse a pasta do projeto no terminal
-$ cd ./raquel-martins-projeto-labeddit
+$ cd ./labeddit
 
 # Instale as dependências
 $ npm install

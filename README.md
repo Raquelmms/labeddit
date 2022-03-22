@@ -1,6 +1,6 @@
 # LabEddit
 
-🚀  Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu para criação de um Website de rede social similar ao Reddit.
+🚀  Projeto individual desenvolvido conforme proposta do bootcamp ministrado pela Labenu para criação de um Website de rede social similar ao Reddit.
 
 ## 🛠Tecnologias
 
